@@ -5,7 +5,7 @@ This repo contains the code for the data collection and analysis behind my maste
  
 I also estimated the population outside of NYC living more than a 10-minute drive from a pharmacy in 2017 and 2022, finding that that population has increased from 15% of the state to 23% over the last five years. 
 
-Below is the methodology for the data collection and analysis process:
+Below is the methodology for the data collection and analysis:
 
 ## Data Collection
 ### State Pharmacy Data
